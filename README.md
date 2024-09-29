@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hueiboi
 - 👀 I’m interested in playing game, listening to music and coding.
-- 🌱 I’m currently learning to become an ITer
+- 🌱 I’m currently learning to become an Dev-er
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me buih1508@gmail.com
 
