@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Hueiboi
+- 👋 Hi, I’m Hieu or you can call me Harold 
 - 👀 I’m interested in playing game, listening to music and coding.
-- 🌱 I’m currently learning to become an Dev-er
+- 🌱 I’m currently learning to become an Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me buih1508@gmail.com
 
