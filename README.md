@@ -16,6 +16,31 @@
 
 ---
 
+### 👨‍💻 About Me
+- 🎓 Software Engineering student focused on building practical, clean, and scalable systems.
+- 🛠️ Currently working with **Full-stack Web**, **Backend Architecture**, and exploring **AI / RAG** applications.
+- 👯 Open to collaborating on open-source projects, web apps, or interesting dev tools.
+- 🎮 Off-keyboard: grinding FPS/RPG games, hitting the gym, and vibing to music.
+
+---
+
+### 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,nodejs,express,angular,postgres,docker,git,linux,vscode&theme=dark" alt="Tech Stack" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Hueiboi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Hueiboi's GitHub stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hueiboi&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
+</div>
+
+---
+
 ### `whoami`
 
 ```typescript
